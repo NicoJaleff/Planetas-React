@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import planetas from '../assets/json/sistema_solar.json';
+//import planetas from '../assets/json/sistema_solar.json';
+import { planetas } from "../assets/json/Data"
 import { Card, Button } from 'react-bootstrap';
 import CartPlanet from './CartPlanet';
 

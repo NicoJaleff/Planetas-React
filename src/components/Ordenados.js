@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Table } from 'react-bootstrap'
-import planetas from '../assets/json/sistema_solar.json';
+//import planetas from '../assets/json/sistema_solar.json';
+import { planetas } from "../assets/json/Data"
 
 
 export default function Ordenados(props) {
